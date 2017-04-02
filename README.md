@@ -9,7 +9,7 @@ It is supposed to work in local, _NAT-ted_ networks.
 
 This is why it has no ssl, and this is the reason you should <h2>NOT expose it to the internet</h2>.
 
-Sentinella is written in go, just type "go build ." into its folder to have it.
+Sentinella is written in go, just type "go build " into its folder to have it.
 To deploy it, just copy the executable and start it.
 
 
