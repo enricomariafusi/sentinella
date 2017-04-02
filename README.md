@@ -3,7 +3,7 @@
 I wrote Sentinella 'cause I have lot of virtual machines at home, plus some _raspberry pi_. 
 Then I needed a _quick'n dirt_ way to have a look to their status.
 
-It listens on http://<machine>:8080 , giving you informations about the machine itself.(ps. netstat, and more)
+It listens on http://[machine]:8080 , giving you informations about the machine itself.(ps. netstat, and more)
 
 It is supposed to work in local, _NAT-ted_ networks.
 
